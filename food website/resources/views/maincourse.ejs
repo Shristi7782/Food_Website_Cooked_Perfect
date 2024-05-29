@@ -1,0 +1,28 @@
+<section class="menu container mx-auto py-8">
+    <h1 class="text-2xl text-white font-bold mb-12 text-center md:tracking-widest bg-black"></h1>ALL MAIN-COURSES</h1>
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 col-gap-12 row-gap-16">
+        
+        <% courses.forEach(function(course) { %>
+        <div class="w-full md:w-64">
+            <img class="h-40 mb-4 mx-auto" src="/img/<%= course.image %>" alt="">
+            <div class="text-center">
+                <h2 class="mb-4 text-lg font-bold"><%= course.name %></h2>
+                <span class="size py-1 px-4 rounded-full uppercase text-xs font-bold"><%= course.quantity %></span>
+                <div class="flex items-center justify-around mt-6">
+                    <span class="font-bold text-lg">₹<%= course.price %></span>
+                    <button data-course="<%= JSON.stringify(course) %>"
+                        class="add-to-cart add-to-cart-course py-1 px-6 rounded-full flex items-center font-bold">
+                        <span>+</span>
+                        <span class="ml-4">Add</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+        <% }) %>
+  
+    </div>
+  </section>
+
+<div class="flex justify-content-between bg-black h-15 mt-5">
+    <h4 class="mx-auto text-white text-xl ">CONTACT : 8809458332</h4>  <h4 class="mx-auto text-white text-xl">EMAIL : dips@gmail.com</h4>
+</div>

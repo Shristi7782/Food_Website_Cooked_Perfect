@@ -1,0 +1,66 @@
+[{
+    "_id": {
+      "$oid": "5eee651f739f8c674fd736b1"
+    },
+    "name": "FRUIT FALOODA",
+    "image": "fruit-faluda.jpg",
+    "price": "130",
+    "quantity": "300 ml"
+  },{
+    "_id": {
+      "$oid": "5eee6671a27a66807cf2beb2"
+    },
+    "name": "CUP CAKE",
+    "image": "Cup-Cake.jpg",
+    "price": "40",
+    "quantity": "1 pc"
+  },{
+    "_id": {
+      "$oid": "5eee6692a27a66807cf2beb3"
+    },
+    "name": "GULAB JAMUN",
+    "image": "Gulab-Jamun.jpg",
+    "price": "50",
+    "quantity": "4 pc"
+  },{
+    "_id": {
+      "$oid": "5eee66a5a27a66807cf2beb4"
+    },
+    "name": "RED VELVET REVELRY",
+    "image": "red-Velvet-revelry.jpg",
+    "price": "30",
+    "quantity": "1 pc"
+  },{
+    "_id": {
+      "$oid": "5eee66c4a27a66807cf2beb5"
+    },
+    "name": "RABRI",
+    "image": "Rabri.jpg",
+    "price": "40",
+    "quantity": "100 Gm"
+  },{
+    "_id": {
+      "$oid": "5eee66cfa27a66807cf2beb6"
+    },
+    "name": "CHOCO COOKIE",
+    "image": "Choco-cookie.jpg",
+    "price": "90",
+    "quantity": "100 Gm"
+  },{
+    "_id": {
+      "$oid": "5eee66eea27a66807cf2beb7"
+    },
+    "name": "CHOCO CAKE",
+    "image": "Choco-cake.jpg",
+    "price": "80",
+    "quantity": "1 pc"
+  },{ 
+    "_id": {
+      "$oid": "5eee6717a27a66807cf2beb8"
+    },
+    "name": "CHOCOLATE ICE-CREAM",
+    "image": "Chocolate-ice-cream.jpg",
+    "price": "120",
+    "quantity": "FULL"
+  }]
+  

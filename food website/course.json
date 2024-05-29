@@ -1,0 +1,66 @@
+[{
+    "_id": {
+      "$oid": "5eee651f739f8c674fd736c1"
+    },
+    "name": "ALOO BIRYANI",
+    "image": "Aloo-Biryani.jpg",
+    "price": "70",
+    "quantity": "FULL"
+  },{
+    "_id": {
+      "$oid": "5eee6671a27a66807cf2bec2"
+    },
+    "name": "VEG FRIED RICE",
+    "image": "Veg-Fried-Rice.jpg",
+    "price": "40",
+    "quantity": "HALF"
+  },{
+    "_id": {
+      "$oid": "5eee6692a27a66807cf2bec3"
+    },
+    "name": "BUTTER NAAN",
+    "image": "butter-naan.jpg",
+    "price": "55",
+    "quantity": "1 pc"
+  },{
+    "_id": {
+      "$oid": "5eee66a5a27a66807cf2bec4"
+    },
+    "name": "CHICKEN BIRYANI",
+    "image": "Chicken-Biryani.jpg",
+    "price": "110",
+    "quantity": "FULL"
+  },{
+    "_id": {
+      "$oid": "5eee66c4a27a66807cf2bec5"
+    },
+    "name": "CHICKEN BUTTER MASALA",
+    "image": "Chicken-Butter-Masala.jpg",
+    "price": "170",
+    "quantity": "FULL"
+  },{
+    "_id": {
+      "$oid": "5eee66cfa27a66807cf2bec6"
+    },
+    "name": "PANNER BUTTER MASALA",
+    "image": "Panner-Butter-Masala.jpg",
+    "price": "200",
+    "quantity": "FULL"
+  },{
+    "_id": {
+      "$oid": "5eee66eea27a66807cf2bec7"
+    },
+    "name": "PANNER DO PIYAZA",
+    "image": "Panner-Do-pyaza.jpg",
+    "price": "180",
+    "quantity": "FULL"
+  },{ 
+    "_id": {
+      "$oid": "5eee6717a27a66807cf2bec8"
+    },
+    "name": "CHICKEN CHAP",
+    "image": "Chicken-Chap.jpg",
+    "price": "120",
+    "quantity": "FULL"
+  }]
+  

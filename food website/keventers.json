@@ -1,0 +1,66 @@
+[{
+    "_id": {
+      "$oid": "5eee651f739f8c674fd736e1"
+    },
+    "name": "VANILLA MILKSHAKE",
+    "image": "vanila.jpg",
+    "price": "109",
+    "quantity": "300 ml"
+  },{
+    "_id": {
+      "$oid": "5eee6671a27a66807cf2bea2"
+    },
+    "name": "OREO MILKSHAKE",
+    "image": "oreo.jpg",
+    "price": "109",
+    "quantity":"300 ml"
+  },{
+    "_id": {
+      "$oid": "5eee6692a27a66807cf2bea3"
+    },
+    "name": "MINT OREO MILKSHAKE",
+    "image": "mint-oreo.jpg",
+    "price": "109",
+    "quantity": "300 ml"
+  },{
+    "_id": {
+      "$oid": "5eee66a5a27a66807cf2bea4"
+    },
+    "name": "5-STAR MILKSHAKE",
+    "image": "5-star.jpg",
+    "price": "109",
+    "quantity": "300 ml"
+  },{
+    "_id": {
+      "$oid": "5eee66c4a27a66807cf2bea5"
+    },
+    "name": "COOKIE ICE-CREAM",
+    "image": "cookie-iceCream.jpg",
+    "price": "120",
+    "quantity": "1 pc"
+  },{
+    "_id": {
+      "$oid": "5eee66cfa27a66807cf2bea6"
+    },
+    "name": "CHOCOLATE BROWIENE",
+    "image": "chocolate-browiene.jpg",
+    "price": "140",
+    "quantity": "1 pc"
+  },{
+    "_id": {
+      "$oid": "5eee66eea27a66807cf2bea7"
+    },
+    "name": "CHOCO FRESHSHAKE",
+    "image": "choco-freasshake.jpg",
+    "price": "140",
+    "quantity": "1 pc"
+  },{ 
+    "_id": {
+      "$oid": "5eee6717a27a66807cf2bea8"
+    },
+    "name": "COOKIE CREAM SHAKE",
+    "image": "cookie-cream.jpg",
+    "price": "120",
+    "quantity": "1 pc"
+  }]
+  

@@ -1,0 +1,28 @@
+<section class="menu container mx-auto py-8">
+    <h1 class="text-2xl text-white font-bold mb-12 text-center md:tracking-widest bg-black">ALL DESERTS</h1>
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 col-gap-12 row-gap-16">
+        
+        <% desserts.forEach(function(dessert) { %>
+        <div class="w-full md:w-64">
+            <img class="h-40 mb-4 mx-auto" src="/img/<%= dessert.image %>" alt="">
+            <div class="text-center">
+                <h2 class="mb-4 text-lg font-bold"><%= dessert.name %></h2>
+                <span class="size py-1 px-4 rounded-full uppercase text-xs font-bold"><%= dessert.quantity %></span>
+                <div class="flex items-center justify-around mt-6">
+                    <span class="font-bold text-lg">₹<%= dessert.price %></span>
+                    <button data-dessert="<%= JSON.stringify(dessert) %>"
+                        class="add-to-cart add-to-cart-dessert py-1 px-6 rounded-full flex items-center font-bold">
+                        <span>+</span>
+                        <span class="ml-4">Add</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+        <% }) %>
+  
+    </div>
+  </section>
+
+<div class="flex justify-content-between bg-black h-15 mt-5">
+    <h4 class="mx-auto text-white text-xl ">CONTACT : 8809458332</h4>  <h4 class="mx-auto text-white text-xl">EMAIL : dips@gmail.com</h4>
+</div>

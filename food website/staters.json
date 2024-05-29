@@ -1,0 +1,66 @@
+[{
+    "_id": {
+      "$oid": "5eee651f739f8c674fd736e9"
+    },
+    "name": "VEG-BURGER",
+    "image": "Veg-Burger.jpg",
+    "price": "70",
+    "quantity": "1 pc"
+  },{
+    "_id": {
+      "$oid": "5eee6671a27a66807cf2bed1"
+    },
+    "name": "VEG-CHOWMEIN",
+    "image": "Veg-ChowMein.jpg",
+    "price": "60",
+    "quantity": "HALF"
+  },{
+    "_id": {
+      "$oid": "5eee6692a27a66807cf2bed2"
+    },
+    "name": "EGG-ROLL",
+    "image": "Roll.jpg",
+    "price": "55",
+    "quantity": "1 pc"
+  },{
+    "_id": {
+      "$oid": "5eee66a5a27a66807cf2bed3"
+    },
+    "name": "CHICKEN BURGER",
+    "image": "chicken-Burger.jpg",
+    "price": "110",
+    "quantity": "1 pc"
+  },{
+    "_id": {
+      "$oid": "5eee66c4a27a66807cf2bed4"
+    },
+    "name": "MASALA-DOSA",
+    "image": "Masala-Dosa.jpg",
+    "price": "90",
+    "quantity": "1 pc"
+  },{
+    "_id": {
+      "$oid": "5eee66cfa27a66807cf2bed5"
+    },
+    "name": "CHICKEN CHOWMEIN",
+    "image": "Chicken-ChowMein.jpg",
+    "price": "80",
+    "quantity": "HALF"
+  },{
+    "_id": {
+      "$oid": "5eee66eea27a66807cf2bed6"
+    },
+    "name": "EGG CHICKEN ROLL",
+    "image": "Chicken-Roll.jpg",
+    "price": "60",
+    "quantity": "1 pc"
+  },{ 
+    "_id": {
+      "$oid": "5eee6717a27a66807cf2bed7"
+    },
+    "name": "CHICKEN LOLIPOP",
+    "image": "Chicken-Lolipop.jpg",
+    "price": "170",
+    "quantity": "6 pcs"
+  }]
+  

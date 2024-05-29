@@ -1,0 +1,73 @@
+[debug] [2021-04-20T07:01:28.801Z] ----------------------------------------------------------------------
+[debug] [2021-04-20T07:01:28.803Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\pc\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-04-20T07:01:28.804Z] CLI Version:   9.10.0
+[debug] [2021-04-20T07:01:28.804Z] Platform:      win32
+[debug] [2021-04-20T07:01:28.804Z] Node Version:  v12.18.3
+[debug] [2021-04-20T07:01:28.805Z] Time:          Tue Apr 20 2021 12:31:28 GMT+0530 (India Standard Time)
+[debug] [2021-04-20T07:01:28.805Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-04-20T07:01:28.808Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[debug] [2021-04-20T07:01:28.829Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-04-20T07:01:28.830Z] > authorizing via signed-in user (mailtoravi437@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\pc\Desktop\foodapp
+
+[debug] [2021-04-20T07:01:30.310Z] <<< [apiv2][status] GET https://firebase-public.firebaseio.com/cli.json 200
+[debug] [2021-04-20T07:01:30.310Z] <<< [apiv2][body] GET https://firebase-public.firebaseio.com/cli.json {"cloudBuildErrorAfter":1594252800000,"cloudBuildWarnAfter":1590019200000,"defaultNode10After":1594252800000,"minVersion":"3.0.5","node8DeploysDisabledAfter":1613390400000,"node8RuntimeDisabledAfter":1615809600000,"node8WarnAfter":1600128000000}
+[debug] [2021-04-20T08:07:50.939Z] ----------------------------------------------------------------------
+[debug] [2021-04-20T08:07:50.941Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\pc\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-04-20T08:07:50.941Z] CLI Version:   9.10.0
+[debug] [2021-04-20T08:07:50.941Z] Platform:      win32
+[debug] [2021-04-20T08:07:50.941Z] Node Version:  v12.18.3
+[debug] [2021-04-20T08:07:50.942Z] Time:          Tue Apr 20 2021 13:37:50 GMT+0530 (India Standard Time)
+[debug] [2021-04-20T08:07:50.942Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-04-20T08:07:51.025Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-04-20T08:07:51.025Z] > authorizing via signed-in user (mailtoravi437@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\pc\Desktop\foodapp
+
+[debug] [2021-04-20T08:08:30.184Z] ----------------------------------------------------------------------
+[debug] [2021-04-20T08:08:30.186Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\pc\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init hosting
+[debug] [2021-04-20T08:08:30.186Z] CLI Version:   9.10.0
+[debug] [2021-04-20T08:08:30.186Z] Platform:      win32
+[debug] [2021-04-20T08:08:30.186Z] Node Version:  v12.18.3
+[debug] [2021-04-20T08:08:30.187Z] Time:          Tue Apr 20 2021 13:38:30 GMT+0530 (India Standard Time)
+[debug] [2021-04-20T08:08:30.187Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-04-20T08:08:30.193Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-04-20T08:08:30.193Z] > authorizing via signed-in user (mailtoravi437@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\pc\Desktop\foodapp
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
